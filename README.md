@@ -7,7 +7,7 @@
 Компоненти: `<Searchbar>`, `<ImageGallery>`, `<ImageGalleryItem>`,
 `<Loader>`, `<Button>` і `<Modal>`. Були надані готові стилі [styles.css](./styles.css).
 
-![preview](./mockup/preview.jpg)
+![preview](https://raw.githubusercontent.com/goitacademy/react-homework/master/homework-03/image-finder/mockup/preview.jpg)
 
 ## Інструкція Pixabay API
 
