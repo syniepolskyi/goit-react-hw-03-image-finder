@@ -25,8 +25,6 @@ export default class App extends Component {
     });
   };
 
-  componentDidMount() {}
-
   componentDidUpdate(prevProps, prevState) {
     const prevQuery = prevState.searchQuery;
     const nextQuery = this.state.searchQuery;
